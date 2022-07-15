@@ -1,0 +1,29 @@
+[
+    {
+        "id": 0,
+        "nomeProgetto": "Swapcard Blog",
+        "tipoProgetto": "Web Design",
+        "descrizione": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Diam euismod condimentum purus integer et.",
+        "linkCodice" : "www.google.it",
+        "linkSito" : "www.youtube.com",
+        "urlImmagine" : "../assets/testCard.png"
+    },
+    {
+        "id": 2,
+        "nomeProgetto": "Youtube Site",
+        "tipoProgetto": "UI/UX Design",
+        "descrizione": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Diam euismod condimentum purus integer et.",
+        "linkCodice" : "www.google.it",
+        "linkSito" : "www.youtube.com",
+        "urlImmagine" : "../assets/testCard.png"
+    },
+    {
+        "id": 3,
+        "nomeProgetto": "Mc Donald",
+        "tipoProgetto": "App Design",
+        "descrizione": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Diam euismod condimentum purus integer et.",
+        "linkCodice" : "www.google.it",
+        "linkSito" : "www.youtube.com",
+        "urlImmagine" : "../assets/testCard.png"
+    }
+]
